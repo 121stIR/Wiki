@@ -16,7 +16,6 @@ Below is tracking of guild ranks, rights, and responsibilities. Make sure you re
 | Rank | Description | Rights | Duty |
 |---|---|---|---|
 | Commander (Guildmaster) | A senior officer ready to lead up to 16-player HM content or Unranked PvP | Three withdrawals from prize tab, set member note | Participating in guild strategic direction, setting conquest & MOTD |
- |
 | Operator | A player certified through the operator program. | Access to the Operator tab. | Certification of players in the operator program. |
 | Officer | A junior officer ready to lead up to endgame content | 100k repairs, one withdrawal from prize tab | Being present for one night weekly on comms |
 | NCO | A non-commissioned officer able to be assigned to leading a four-player team. | 40k repairs, flagship summons, two withdrawals | 
