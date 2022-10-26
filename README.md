@@ -30,7 +30,7 @@ Member notes should track distinguishing ranks. Use the three-letter abbreviatio
   * Staff sergeants are regularly working with the same team or section.
   * Sergeants first-class are charged with organizing a platoon.
 * Officers are in charge of organizing logistics and recruiting for their units. They should have their unit size online during their shift.
-  * A 1st Lieutenant is in charge of a weekly section; 2nd LT is in charge of a weekly platoon.
+  * A 1st Lieutenant is in charge of a weekly platoon; 2nd LT is in additionally in charge of mentoring new lieutenants.
   * A Captain is in charge of a company-sized element.
   * A Major is placed in charge of the elite company within a battalion and mentors the Captains.
   * A Lieutenant Colonel is placed in charge of a battalion. 
@@ -55,14 +55,15 @@ Troopers are only as good as the unit they're working with. Look at your fight t
 Sizes, based on [typical military units](https://www.liveabout.com/u-s-army-military-organization-from-squad-to-corps-4053660):
 
 * Team: Four-member unit, required for flashpoints and 4v4 PvP
-* Section: Two teams (8 players), required for operations and larger PvP content
-* Platoon: Two sections (16 players), required for the largest operations
-* Company: Two platoons (32 players), required to clear world bosses
-* Battalion: Two or more companies
-* Brigade: Two or more battalions, representing a guild
-* Division: Two or more brigades
-* Corps: Two or more divisions
-* Army: Two or more corps
+* Squad: Two teams (8 players), required for operations and larger PvP content
+* Section: Two squads (16 players), required for the largest operations
+* Platoon: Two sections (32 players), required to clear world bosses
+* Company: Two or more platoons (64+ players)
+* Battalion: Two or more companies (128+ players)
+* Brigade: Two or more battalions (256+ players), representing a guild
+* Division: Two or more brigades (512+ players)
+* Corps: Two or more divisions (1024+ players)
+* Army: Two or more corps (2048+ players)
 
 # Current Army Status
 
