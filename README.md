@@ -58,31 +58,52 @@ Sizes, based on [typical military units](https://www.liveabout.com/u-s-army-mili
 * Squad: Two teams (8 players), required for operations and larger PvP content
 * Section: Two squads (16 players), required for the largest operations
 * Platoon: Two sections (32 players), required to clear world bosses
-* Company: Two or more platoons (64+ players)
-* Battalion: Two or more companies (128+ players)
-* Brigade: Two or more battalions (256+ players), representing a guild
+* Company or Troop: Two or more platoons (64+ players)
+* Battalion or Regiment: Two or more companies (128+ players)
+* Brigade or Republic Task Force: Two or more battalions (256+ players), representing a guild
 * Division: Two or more brigades (512+ players)
 * Corps: Two or more divisions (1024+ players)
 * Army: Two or more corps (2048+ players)
 
+In function, we will typically focus on the Team, Platoon, and Task Force elements.
+
 # Current Army Status
 
-* Operational Corps
+## Acronyms
+
+* RTF: Republic Task Force
+* Commanding Officer: CO
+* Executive Officer: XO
+* OIC: Officer in Charge
+* NCOIC: Non-Commissioned Officer in Charge (typically a Master Sergeant or First Sergeant with Operator status)
+
+## Rosters with Points of Contact
+
+* **Operational Corps -- CO: Traitin, XO: Kittar'ra**
   * 1st Division
-    * Republic Task Force Aurek, commanded by Colonel Traitin, delegated to Major Obrganav.
-    * Republic Task Force Besh (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Cresh (inactive), held by Colonels Traitin and Jeno Drakar
+    * **RTF Aurek -- CO: Jeno Drakar**
+      * **Thursday Platoon NCOIC: Obrganav**
+      * **PVP Platoon OIC: Laff'eng**
+      * **GSF Wing OIC: Kade Vos**
+      * **Writer's Guild OIC: Traitin**
+      * **Senate Guard OIC: Kittar'ra**
+    * RTF Besh (inactive)
+    * RTF Cresh (inactive)
   * 2nd Division
-    * Republic Task Force Cherek (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Dorn (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Esk (inactive), held by Colonels Traitin and Jeno Drakar
+    * RTF Cherek (inactive)
+    * RTF Dorn (inactive)
+    * RTF Esk (inactive)
   * 3rd Division
-    * Republic Task Force Enth (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Onith (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Forn (inactive), held by Colonels Traitin and Jeno Drakar
-    * Republic Task Force Grek (inactive), held by Colonels Traitin and Jeno Drakar
+    * RTF Enth (inactive)
+    * RTF Onith (inactive)
+    * RTF Forn (inactive)
+    * RTF Grek (inactive)
 * Training Corps
   * 1st Division
-    * OPFOR (Imperial-side training regiment, inactive by treaty), held by Colonels Traitin and Jeno Drakar
-    * ONE TWO ONE (recruiting battalion, inactive), held by Colonels Traitin and Jeno Drakar
-    * CXXI Infantry Regiment (parade battalion, inactive), held by Colonels Traitin and Jeno Drakar
+    * OPFOR (Imperial-side training regiment, inactive by treaty)
+    * ONE TWO ONE (recruiting and retention battalion, inactive)
+    * CXXI Infantry Regiment (parade and propaganda battalion, inactive)
+
+# Active Treaties
+
+* We currently have an active treaty with `<Imperial Intelligence>` and `<Paragons of Fear>` as the [Ziost Council under the terms of this Gist](https://gist.github.com/Dark-Feather/8560acdedbb64ed9f51e2731ee9057de). This was ratified 2022/07/28.
