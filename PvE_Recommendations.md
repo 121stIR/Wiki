@@ -55,6 +55,21 @@ OPSEC is ensuring your personal security -- keeping yourself safe ensures the un
 
 # Group Leadership
 
+## Scheduling Your Group
+
+Very, very few people play Old Republic full-time -- most of your group is going to be folks playing of an evening for relaxation, and many of them are going to have limited playtime. To enourage your group to keep coming back, you should focus on ensuring they clear more and more advanced content (emphasis on clearing) so that the achievements, loot, and efficient use of their time draw them back. As such, here are some things to consider:
+
+1. **Select a timeslot** that you can comfortably make, then recruit a team to assist with that content. This is equally true of one-time and recurring events.
+  * Be EARLY -- folks should not be waiting on you to form the group. 5 minutes early is on time; on-time is late.
+  * Communicate as soon as possible any change of plans, and try to have a line of succession for who can take over if you're unable to complete.
+1. **Know your prog** or your progression. Generally speaking, the team-size endgame order of content should be Veteran Flashpoints, Mastermode Flashpoints, and Uprisings of increasing difficulty. Squads and sections can progress through operations in story-hard-nightmare mode order. Keep track of where your element is in the prgoression.
+1. **Know the content** you're scheduling for. This means having your guide, parse targets, and team composition read and understood well before the event's hit time.
+1. **Have your PACE plan** or Primary, Alternate, Contingency, and Emergency plans in order. You're driving the experience for these folks, and repeated wipes and losses are demoralizing, which is the opposite of what people want in their experience.
+  * Primary: the desireable goal or progression point and how that'll be achieved, usually indicated by the guides and/or personal experience.
+  * Alternate: what happens if the group can't make the goal (generally, attempting the same or similar content at lesser difficulty)
+  * Contingency: What happens if a sizeable number of your element don't show?
+  * Emergency: What happens if you as the leader suffer an Internet outage or otherwise are forced AFK? Who takes over?
+
 ## Pre-Combat Checks
 
 Leaders should make a habit of performing PCC's or pre-combat checks. Below is a short checklist for each member within your unit. These should be performed for yourself and everyone you're responsible for.
