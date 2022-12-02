@@ -15,14 +15,14 @@ Below is tracking of guild ranks, rights, and responsibilities. Make sure you re
 
 | Rank | Description | Rights | Duty |
 |---|---|---|---|
-| Commander (Guildmaster) | A senior officer ready to lead up to 16-player HM content or Unranked PvP | Three withdrawals from prize tab, set member note | Participating in guild strategic direction, setting conquest & MOTD |
-| Operator | A player certified through the operator program. | Access to the Operator tab. | Certification of players in the operator program. |
-| Officer | A junior officer ready to lead up to endgame content | 100k repairs, one withdrawal from prize tab | Being present for one night weekly on comms |
-| NCO | A non-commissioned officer able to be assigned to leading a four-player team. | 40k repairs, flagship summons, two withdrawals | 
-| Specialist | Functional member, maximal rank for all alts | 20k repairs, one withdrawal of stacks from Guild free tab  | Have Discord 
+| Commander | A senior officer ready to lead up to 16-player HM content or Unranked PvP | Three withdrawals from prize tab, remove players, guild mail and MOTD | Participating in guild strategic direction, setting conquest & MOTD |
+| Operator | A player certified through the operator program. | Access to the Variant guildbank tabs, set conquest and perks | Certification of player in the [operator program](Operator_Certification.md). |
+| Officer | A junior officer ready to lead up to endgame content | 100k repairs, one withdrawal from Officer/NCO Gear tab, update ranks and notes. | Being present for one night weekly on comms |
+| NCO | A non-commissioned officer able to be assigned to leading a four-player team. | 40k repairs, flagship summons, two withdrawals, set primary and use of officer chat. |
+| Specialist | Functional member, maximal rank for all alts | 20k repairs, one withdrawal of stacks from Guild free tab  | Have Discord |
 | Reservist | Entry rank | 10k repairs, guild chat, one withdrawal (no stacks) from Guild free tab | Follow code of conduct |
 
-Member notes should track distinguishing ranks. Use the three-letter abbreviations.
+Member notes should track distinguishing ranks. Use the three-letter abbreviations. Officer notes should track those individuals up for review for promotion.
 
 * An NCO is in charge of organizing the people & training within a unit
   * Corporals are being mentored in leadership.
@@ -39,9 +39,10 @@ Member notes should track distinguishing ranks. Use the three-letter abbreviatio
   * A First Sergeant is an Operator assisting a Captain with developing a training regimen for a Company in addition to duties as an operator.
   * A Sergeant Major is an Operator in charge of coordinating the Operators for the battalion and leading their training, usually alongside a Lieutenant Colonel.
   * A Command Sergeant Major is entrusted with the overall training regimen for a battalion element alongside a Commander, in addition to operator duties.
-* Commanders are in charge of organizing 
-  * A Colonel would lead a brigade.
+* Commanders are in charge of organizing guilds and overall strategy of our group as a movement.
+  * A Colonel would lead a brigade (guild).
   * A General leads across guilds -- their number of stars reflects their seniority and successful campaigns.
+  * Strategic partners, such as those in the ratified treaties below, may be ceremonial commanders if they are not otherwise involved in the guild.
 
 # Units
 
