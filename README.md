@@ -56,17 +56,17 @@ Troopers are only as good as the unit they're working with. Look at your fight t
 Sizes, based on [typical military units](https://www.liveabout.com/u-s-army-military-organization-from-squad-to-corps-4053660):
 
 * Team: Four-member unit, required for flashpoints and 4v4 PvP
-* Squad: Two teams (8 players), required for operations and larger PvP content
-* Section: Two squads (16 players), required for the largest operations
-* Platoon: Two sections (32 players), required to clear world bosses
-* Company or Troop: Two or more platoons (64+ players)
-* Battalion or Regiment: Two or more companies (128+ players)
-* Brigade or Republic Task Force: Two or more battalions (256+ players), representing a guild
-* Division: Two or more brigades (512+ players)
-* Corps: Two or more divisions (1024+ players)
-* Army: Two or more corps (2048+ players)
+* Squad: Two teams (8 characters), required for operations and larger PvP content
+* Section: Two squads (16 characters), required for the largest operations
+* Platoon: Two sections (32 characters), required to clear world bosses
+* Company or Troop: Four platoons (125 characters)
+* Battalion or Regiment: Four companies (500 characters) -- some special-function guilds will operate at this size
+* Republic Task Force: Two battalions (1000 characters), representing a [full-strength guild](https://help.ea.com/en-gb/help/star-wars/star-wars-the-old-republic/swtor-guild-management/)
+* Brigade: Three RTFs (3000 characters)
+* Division: Three brigades (9000 characters)
+* Corps: Four divisions (36000 characters)
 
-In function, we will typically focus on the Team, Platoon, and Task Force elements.
+In function, we will typically focus on the Team, Squad, Section, and Task Force elements.
 
 # Current Army Status
 
@@ -80,30 +80,31 @@ In function, we will typically focus on the Team, Platoon, and Task Force elemen
 
 ## Rosters with Points of Contact
 
-* **Operational Corps -- CO: Traitin, XO: Kittar'ra**
-  * 1st Division
-    * **RTF Aurek -- CO: Jeno Drakar**
-      * **Thursday Platoon NCOIC: Obrganav**
-      * **PVP Platoon OIC: Laff'eng**
-      * **GSF Wing OIC: Kade Vos**
-      * **Writer's Guild OIC: Traitin**
-      * **Senate Guard OIC: Kittar'ra**
-    * RTF Besh (inactive)
-    * RTF Cresh (inactive)
-  * 2nd Division
-    * RTF Cherek (inactive)
-    * RTF Dorn (inactive)
-    * RTF Esk (inactive)
-  * 3rd Division
-    * RTF Enth (inactive)
-    * RTF Onith (inactive)
-    * RTF Forn (inactive)
-    * RTF Grek (inactive)
-* Training Corps
-  * 1st Division
-    * OPFOR (Imperial-side training regiment, inactive by treaty)
-    * ONE TWO ONE (recruiting and retention battalion, inactive)
+**Corps -- CO: Traitin, XO: Kittar'ra**
+
+* 1st Brigade
+  * **RTF Aurek -- CO: Jeno Drakar**
+    * **PVE NCOIC: Jax Nyrek**
+    * **PVP Platoon OIC: Laff'eng**
+    * **GSF Wing OIC: Kade Vos**
+    * **Writer's Guild OIC: Traitin**
+    * **Senate Guard OIC: Kittar'ra**
+  * RTF Besh (inactive)
+  * RTF Cresh (inactive)
+* 2nd Brigade
+  * RTF Cherek (inactive)
+  * RTF Dorn (inactive)
+  * RTF Esk (inactive)
+* 3rd Brigade
+  * RTF Enth (inactive)
+  * RTF Onith (inactive)
+  * RTF Forn (inactive)
+  * RTF Grek (inactive)
+* 4th Brigade
+  * Recruiting and Retention Task Force
+    * **ONE TWO ONE -- Recruit Sustainment Program (RSP) NCOIC: Obrganav**
     * CXXI Infantry Regiment (parade and propaganda battalion, inactive)
+  * OPFOR (Imperial-side training task force, inactive by treaty)
 
 # Active Treaties
 
