@@ -1,4 +1,4 @@
-# Republic Task Force Aurek
+# 121st Infantry Regiment
 
 We play [Star Wars: The Old Republic](http://swtor.com/) on the Satele Shan server for mental reset, team-building and micromanagement training. We primarily play for the Trooper subculture within the Republic faction.
 
