@@ -1,5 +1,4 @@
-# Republic Task Force Aurek
-**Training Manual, 2nd Edition**
+# The 121st Infantry Regiment Training Manual
 * Copyright 2022
 * Written by: Don, Founder
 * Revised & Edited 11/25/22 by: Kittar'ra and Laff'eng
@@ -20,6 +19,10 @@ CAPTAIN AVRUM DARKSTAR, COMMANDING OFFICER, AUREK COMPANY, 1ST BATTALION, 121ST 
 ```
 “IT SHALL BE DONE”
 ```
+
+### Follow-on
+
+The 121st Infantry Regiment is a superset of guilds -- the leading company is Republic Task Force Aurek.
 
 ## SUMMARY:
 
@@ -48,6 +51,7 @@ CAPTAIN AVRUM DARKSTAR, COMMANDING OFFICER, AUREK COMPANY, 1ST BATTALION, 121ST 
 *IF YOU ANSWERED NO TO ANY OF THESE QUESTIONS, IT IS RECOMMENDED YOU FIND ANOTHER GUILD TO JOIN*
 
 ## ENLISTMENT IN THE 121ST INFANTRY REGIMENT:
+
 1. Recruits must read and understand this manual.
 1. Recruits must be at least 18 years of age to be accepted into the guild. Rare exceptions can be made. This will be determined on a case-by-case basis by the guild leader. We prefer our members to be mature in nature. Additionally, we employ a program called “Discord” for voice communications; we cannot be held liable for what kind of mature conversations that may take place.
 1. Recruits must have a name acceptable to RP standards. Names that are not acceptable include but are not limited to: leet names, names that spell out phrases, names that are copyrighted, or names that go against lore. Such names may be acceptable by game standards, but they are not acceptable by ours.
@@ -86,7 +90,7 @@ CAPTAIN AVRUM DARKSTAR, COMMANDING OFFICER, AUREK COMPANY, 1ST BATTALION, 121ST 
     1. You stated in your application that you were not willing to abide by guild uniform and/or membership regulations.
 
 ### Requirements After Enlisting:
-Upon enlistment in Republic Task Force Aurek, you are assigned the rank of Private. This is a probationary rank and means that you are being assessed at all times on your performance in the guild, contributing to the team activeness in guild events, etc.
+Upon enlistment in the 121st, you are assigned the rank of Private. This is a probationary rank and means that you are being assessed at all times on your performance in the guild, contributing to the team activeness in guild events, etc.
 
 To advance to the rank of Private First Class, a Private must do the following:
 * Write a character biography and post it in the “personnel-dossiers” section of the RTAF Discord channel.
@@ -97,7 +101,7 @@ To advance to the rank of Private First Class, a Private must do the following:
     * -must use appropriate channels
     * -must keep chatter during guild operations to a minimum
     * -do not interrupt guild officers passing orders during battles
-    * -avoid the use of exessive profanity, racial, sexual or derogatory comments that might offend some members. If someone asks you to cool it, apologize and move on. With that said, if a pattern forms and complaints persist, you will be removed for causing guild drama. Republic Task Force Aurek is a drama-free guild.
+    * -avoid the use of exessive profanity, racial, sexual or derogatory comments that might offend some members. If someone asks you to cool it, apologize and move on. With that said, if a pattern forms and complaints persist, you will be removed for causing guild drama. The 121st is a drama-free guild.
 
 ## ALTERNATE CHARACTERS:
 Additional characters on your account are welcome and encouraged to join as long as they meet our recruitment standards. Make sure you denote which character is your primary. All other characters will be designated as reservist and will not be eligible for promotion past the rank of Specialist. All guild rules and regulations apply to alt’s, including logging in at least once every 30 days, or they are subject to being removed. You are permitted to have one Main and up to two Alts in the guild at a time.
@@ -122,10 +126,10 @@ Personal Courage: Face fear, danger, or adversity (physically or mentally).
 * You have the right to voice anything to guild officers using /whisper, in-game mail, or Discord PM. Whether it is a complaint, praise, or suggestion.
 * You have the right to be treated with respect. If any member violates this right, please approach an officer.
 * You have the right to take a break from the game at any time. However, please inform us, or you will be removed from the guild after 30 days.
-* You have the right to leave Republic Task Force Aurek at any time if you feel that it is no longer right for you.
+* You have the right to leave the 121st at any time if you feel that it is no longer right for you.
 * Be generous. If you are given something, reward others by giving in turn.
-* Answer a call for help by any Republic Task Force Aurek member when possible.
-* When a call is put out for all Republic Task Force Aurek members to respond, you will respond. Remember, we are an army of one!
+* Answer a call for help by any 121st Infantry Regiment member when possible.
+* When a call is put out for all 121st Infantry Regiment members to respond, you will respond. Remember, we are an army of one!
 * Rank titles are only displayed if they are the same as your guild rank.
 * All members are required to achieve a minimum gear rating of 328 after reaching level 80.
 * Legacy names are to be displayed at all times on your primary character.
@@ -133,12 +137,12 @@ Personal Courage: Face fear, danger, or adversity (physically or mentally).
 * Do not create drama! Anyone causing drama that the commanding officer or executive officer have to spend more than ten minutes having to deal with will be subject to probation and possibly removal from the guild.
 * Where possible, members will attempt to use the chain of command when addressing questions and concerns so as to alleviate the workload of our officers.
 
-## REPUBLIC TASK FORCE AUREK MEMBERS WILL IMMEDIATELY BE REMOVED FOR THE FOLLOWING:
+## 121ST INFANTRY REGIMENT MEMBERS WILL IMMEDIATELY BE REMOVED FOR THE FOLLOWING:
 * Griefing, slandering, childish treatment, and rude emotes are not allowed. “Deeds, not words'' will apply when dealing with the enemy. If they slander you, ignore them- you will make them look like morons. This will be enforced. Some of our members have friends or alts on the Imperial Side. We will find out. Generally, RP banter is allowed, but know the line and do not cross it.
 * Botting, hacking, exploiting, or general cheating. No use of third-party programs, etc. will be tolerated. This includes afk-ing warzones.
-* Any action that is seen to degrade Republic Task Force Aurek’s image in the eyes of its allies and the Satele Shan server community.
+* Any action that is seen to degrade 121st Infantry Regiment’s image in the eyes of its allies and the Satele Shan server community.
 * Failure to respond to a call-to-arms in guild chat or Discord without good reason.
-* Elitism: behavior contrary to the spirit of Republic Task Force Aurek’s “army of one” mentality.
+* Elitism: behavior contrary to the spirit of 121st Infantry Regiment’s “army of one” mentality.
 
 ###  PERSONAL LEAVE:
 * Members who hold the rank of Private First Class or above may take personal leave from the game.
@@ -171,14 +175,14 @@ Restitution may require reimbursement of credits or time replacement of the item
 Demotion or loss or rank will be punishment for inactivity in the guild. This will especially be true for members in leadership positions such as NCOs and officers who are expected to be on and participate in events on a regular basis. NCOs and officers are expected to lead by example and it is hard to do that when they are not on. As a general guideline, you will lose one rank for roughly 30 days of inactivity.
 
 #### HONORABLE DISCHARGE:
-Any Republic Task Force Aurek member with the rank of Private First Class or above that resigns from the guild or is removed for being on a leave of absence will receive an honorable discharge from service. An honorable discharge is as follows: should you choose to return within 30 days of your discharge, you will not be required to reapply and will be given the highest non-leadership rank you had achieved before discharge. If you choose to return after 30 days from discharge, you will need to reapply to the guild and go through the same process as any new recruit would.
+Any 121st Infantry Regiment member with the rank of Private First Class or above that resigns from the guild or is removed for being on a leave of absence will receive an honorable discharge from service. An honorable discharge is as follows: should you choose to return within 30 days of your discharge, you will not be required to reapply and will be given the highest non-leadership rank you had achieved before discharge. If you choose to return after 30 days from discharge, you will need to reapply to the guild and go through the same process as any new recruit would.
 
 #### DISHONORABLE DISCHARGE:
 Repeat violations to the code of conduct, or a violation while on probation, or desertion, i.e., not logging in for a period of over 30 or days without going on personal leave or taking a leave of absence, will result in a dishonorable discharge. It can in some cases, however, come from just one violation of the code of conduct. The following actions will be taken against anyone who is dishonorably discharged from service:
 * You will immediately be removed from the guild.
-* You will be banned from the Republic Task Force Aurek Discord channel.
+* You will be banned from the 121st Infantry Regiment Discord channel.
 * You will be banned from the Republic Task Force headquarters and flagship.
-* You will be unable to reapply to Republic Task Force Aurek in the future. furthermore, all members should ban and ignore anyone that has been dishonorably discharged.
+* You will be unable to reapply to 121st Infantry Regiment in the future. furthermore, all members should ban and ignore anyone that has been dishonorably discharged.
 
 ## MILITARY COURTESY:
 Military courtesy is simply the display of good manners and politeness when dealing with other members of the military. Military courtesy conveys respect from both subordinate and senior to each other.
@@ -294,9 +298,9 @@ We group together – no divisions – no elitism – members group together reg
 
 We train together – if you are a good PVP’er, teach others – if you are a good PVE’er, teach others. As our numbers increase, so do we as we gain more experience and knowledge from new members.
 
-No ego – if you think you are better than everyone, close this training manual and find another guild. You are allowed to be proud of Republic Task Force Aurek’s achievements, but we achieve as a group and no one person can claim responsibility. This guild isn’t about how good you are, it’s about how good WE are.
+No ego – if you think you are better than everyone, close this training manual and find another guild. You are allowed to be proud of 121st Infantry Regiment’s achievements, but we achieve as a group and no one person can claim responsibility. This guild isn’t about how good you are, it’s about how good WE are.
 
-Deeds not words – we let our actions speak for us. Republic Task Force Aurek has plenty of accomplishments, but those who like to brag or emote the many corpses that Republic Task Force Aurek creates in our wake, need not apply.
+Deeds not words – we let our actions speak for us. 121st Infantry Regiment has plenty of accomplishments, but those who like to brag or emote the many corpses that 121st Infantry Regiment creates in our wake, need not apply.
 
 Cooperation – limiting drama – drama is natural in large guilds – not everyone is perfectly suited to work with everyone else in a group. However, cooperation and understanding overcome all situations. Interpersonal issues should be dealt with at the lowest level and kept in perspective.
 
@@ -306,9 +310,9 @@ Lack of individuality – we abandon our freedoms to wear whatever gear we want,
 
 ## THE CALL TO ARMS – RESPONDING TO QUICK REACTION CALL:
 
-Republic Task Force Aurek responds to calls for assistance against the Sith on a very regular basis.
+121st Infantry Regiment responds to calls for assistance against the Sith on a very regular basis.
 
-If an allied guild or Republic player makes a request for assistance, Republic Task Force Aurek will muster and assist when possible. Our reputation amongst the Republic and our allies is of the utmost importance  to us.
+If an allied guild or Republic player makes a request for assistance, 121st Infantry Regiment will muster and assist when possible. Our reputation amongst the Republic and our allies is of the utmost importance  to us.
 
 The same goes for requests from members of our own guild. If a Sergeant or above puts out the word for you to report to a planet, you will report!
 
