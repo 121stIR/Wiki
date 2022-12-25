@@ -55,16 +55,10 @@ The 121st Infantry Regiment is a superset of guilds -- the leading company is Re
 1. Recruits must read and understand this manual.
 1. Recruits must be at least 18 years of age to be accepted into the guild. Rare exceptions can be made. This will be determined on a case-by-case basis by the guild leader. We prefer our members to be mature in nature. Additionally, we employ a program called “Discord” for voice communications; we cannot be held liable for what kind of mature conversations that may take place.
 1. Recruits must have a name acceptable to RP standards. Names that are not acceptable include but are not limited to: leet names, names that spell out phrases, names that are copyrighted, or names that go against lore. Such names may be acceptable by game standards, but they are not acceptable by ours.
-1. At this time, all Tech Classes are accepted, but Origin Story must be the Trooper Story:
-    1. Commando
-    1. Vanguard
-    1. Gunslinger
-    1. Scoundrel
-    1. Powertech
-    1. Sniper
-    1. Mercenary
-    1. Operative
-    1. Jedi classes on a rare case by case basis pending commanding officer approval
+1. At this time, Vanguards and Commandos of the Trooper Origin Story are preferred, but all classes are accepted.
+    1. All characters are expected to maintain an outfit with the appropriate uniform.
+    1. Tech/blaster classes will fit in the best with the guild's overall missinos.
+    1. In addition to their uniform, any Force-users are required to maintain a staff or vibroblade-style weapon in their guild outfit slot.
 1. Recruits must be willing to participate in PVP when called to do so. We are an army of one!
 1. Recruits must be body type 2 or 3.
 1. Recruits must be willing to play regularly.  With that said, we are very understanding about how life, work, and family can be and are a mature guild.
