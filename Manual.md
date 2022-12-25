@@ -108,6 +108,8 @@ Additional characters on your account are welcome and encouraged to join as long
 
 ## CORE REPUBLIC ARMY VALUES:
 
+> Inspired by [US Army Values](https://www.army.mil/values/)
+
 Loyalty: Bear true faith and allegiance to the Republic, the Republic Army, your unit and other soldiers.
 
 Duty: Fulfill your obligations.
@@ -217,6 +219,8 @@ When addressing any other member, it is appropriate to address them by their ran
 Note, it is acceptable to address all NCOs ranked Sergeant to Sergeant First Class simply as “Sergeant”. The same applies to both Second and First Lieutenants. It is acceptable to address them both simply as “Lieutenant”.
 
 ## CREEDS OF THE REPUBLIC ARMY:
+
+> Inspired by the [US Army Blue Book](https://www.army.mil/article/181281/eighth_army_blue_book_revised_01_jan_2017)
 
 ### REPUBLIC SOLDIER’S CREED:
 
