@@ -7,7 +7,8 @@ We play [Star Wars: The Old Republic](http://swtor.com/) on the Satele Shan serv
 Just ask anybody in guild chat for a Discord invite.
 
 * [Facebook](https://www.facebook.com/121stAurek/)
-* [Twitch](https://www.twitch.tv/121staurek_kittarra)
+* [Kittar'ra's Twitch](https://www.twitch.tv/121staurek_kittarra)
+* [Jeno's Twitch](https://www.twitch.tv/121staurek_jeno)
 * [Twitter](https://twitter.com/121staurek)
 
 # Ranks
